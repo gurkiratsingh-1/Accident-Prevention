@@ -1,0 +1,16 @@
+I've run this project on Anaconda-> Spyder
+Python 3.7.1
+
+pip install Keras==2.2.4
+pip install tensorflow==1.13.1
+pip install numpy==1.15.4
+pip install pygame==1.9.6
+pip install matplotlib==3.0.2
+pip install pygame==1.9.6
+pip install opencv==3.4.1
+pip install pygame==1.9.6
+pip install Pillow==5.3.0
+pip install pygame==1.9.6
+pip install pickleshare==0.7.5
+pip install dlib==19.21.0(1.for this library you must install vs code
+2.after installing vs code, install c/c++ library into vs code)
