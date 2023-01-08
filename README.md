@@ -1,10 +1,6 @@
 # Accident-Prevention
 Screenshots from project
 
-<h4>Main Menu</h4>
-
-![image](https://user-images.githubusercontent.com/38164177/210646455-39f8339b-7612-45cc-8208-d4ae40a86dbc.png)
-
 <h4>Facial Landmarks for Yawn Detector </h4>
 
 ![image](https://user-images.githubusercontent.com/38164177/211210655-16967d0c-d6cf-4c28-bd8c-412413c755b9.png)
