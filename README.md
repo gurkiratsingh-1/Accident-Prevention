@@ -1,6 +1,6 @@
 # Accident-Prevention
 Refer to Report
-<h1>Screenshots from project
+Screenshots from project
 ![image](https://user-images.githubusercontent.com/38164177/210646455-39f8339b-7612-45cc-8208-d4ae40a86dbc.png)
 
 Facial Landmarks for Yawn Detector 
